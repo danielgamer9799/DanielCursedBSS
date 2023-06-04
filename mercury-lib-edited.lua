@@ -72,8 +72,8 @@ local Library = {
 			WeakText = Color3.fromHSV(0, 0, 172/255)
 		},
 		DanielCursedBSS = {
-      Main = Color3.fromRGB(15, 15, 15),
-			Secondary = Color3.fromRGB(0, 100, 100),
+      			Main = Color3.fromRGB(15, 15, 15),
+			Secondary = Color3.fromRGB(20, 20, 20),
 			Tertiary = Color3.fromRGB(192,192,192),
 
 			StrongText = Color3.fromHSV(0 , 0, 255),        
