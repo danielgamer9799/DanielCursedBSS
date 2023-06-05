@@ -21,8 +21,8 @@ local Window = Rayfield:CreateWindow({
        Note = "Join the discord server to get the key, or buy premium key thats VERY cheap for only 0.49$ and it will be the same key without changing it.",
        FileName = "DCBK", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
        SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
-       GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
-       Key = "https://raw.githubusercontent.com/danielgamer9799/DanielCursedBSS/main/key" -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+       GrabKeyFromSite = false, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+       Key = {"8742auye-9302k-2i23","premiumkey-02sk29sfjs5jksad"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
     }
  })
 
